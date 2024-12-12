@@ -1,2 +1,2 @@
 # Areco
-Portfolio  do de projetos solicitados para seleção
+Portfólio  do projetos solicitados para seleção
