@@ -8,12 +8,12 @@
     <Transaction>2024/11/01 15:19:30.000.974,=C:\Users\piaul\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2024/12/10 11:56:06.000.746,=C:\Users\piaul\OneDrive\Documentos\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
     <Transaction>2024/12/10 11:58:22.000.128,=C:\Users\piaul\OneDrive\Documentos\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
-    <Transaction>2024/12/10 12:00:21.000.026,=C:\Users\piaul\OneDrive\Documentos\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
     <Transaction>2024/12/10 12:00:21.000.210,=C:\Users\piaul\OneDrive\Documentos\Embarcadero\Studio\Projects\ServerConst1.pas</Transaction>
+    <Transaction>2024/12/10 12:00:21.000.026,=C:\Users\piaul\OneDrive\Documentos\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
     <Transaction>2024/12/11 11:29:07.000.511,=C:\Users\piaul\OneDrive\Documentos\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
     <Transaction>2024/12/11 11:29:07.000.197,=C:\Users\piaul\OneDrive\Documentos\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
-    <Transaction>2024/12/11 11:29:33.000.137,=C:\Users\piaul\OneDrive\Documentos\Embarcadero\Studio\Projects\UWMTesteImpl.pas</Transaction>
     <Transaction>2024/12/11 11:29:33.000.280,=C:\Users\piaul\OneDrive\Documentos\Embarcadero\Studio\Projects\UWMTesteIntf.pas</Transaction>
+    <Transaction>2024/12/11 11:29:33.000.137,=C:\Users\piaul\OneDrive\Documentos\Embarcadero\Studio\Projects\UWMTesteImpl.pas</Transaction>
     <Transaction>2024/12/11 11:30:51.000.464,C:\Users\piaul\OneDrive\Documentos\Embarcadero\Studio\Projects\UWMTesteIntf.pas=C:\Projeto Teste\Web Service\UWMTesteIntf.pas</Transaction>
     <Transaction>2024/12/11 11:30:54.000.563,C:\Users\piaul\OneDrive\Documentos\Embarcadero\Studio\Projects\UWMTesteImpl.pas=C:\Projeto Teste\Web Service\UWMTesteImpl.pas</Transaction>
     <Transaction>2024/12/11 11:31:31.000.079,C:\Users\piaul\OneDrive\Documentos\Embarcadero\Studio\Projects\FormUnit1.pas=C:\Projeto Teste\Web Service\UWS.pas</Transaction>
@@ -34,18 +34,17 @@
     <Transaction>2024/12/11 18:12:05.045,C:\Projeto Teste\units Globais\Variaveis.pas=</Transaction>
     <Transaction>2024/12/11 21:29:33.859,=C:\Projeto Teste\Global\UMensagens.pas</Transaction>
     <Transaction>2024/12/11 21:49:48.756,C:\Projeto Teste\Web Service Teste\WebServiceTeste.dproj=C:\Projeto Teste\Web Service\WebServiceTeste.dproj</Transaction>
-    <Transaction>2024/12/11 21:50:19.508,C:\Projeto Teste\Web Service Teste\UDMTeste.dfm=C:\Projeto Teste\Web Service\UDMTeste.dfm</Transaction>
     <Transaction>2024/12/11 21:50:19.508,C:\Projeto Teste\Web Service Teste\UDMTeste.pas=C:\Projeto Teste\Web Service\UDMTeste.pas</Transaction>
+    <Transaction>2024/12/11 21:50:19.508,C:\Projeto Teste\Web Service Teste\UDMTeste.dfm=C:\Projeto Teste\Web Service\UDMTeste.dfm</Transaction>
     <Transaction>2024/12/11 21:50:53.092,C:\Projeto Teste\Web Service Teste\UWS.pas=c:\projeto teste\web service\UWS.pas</Transaction>
     <Transaction>2024/12/11 21:50:53.092,C:\Projeto Teste\Web Service Teste\UWS.dfm=c:\projeto teste\web service\UWS.dfm</Transaction>
     <Transaction>2024/12/11 21:51:09.712,C:\Projeto Teste\Web Service Teste\UWMTeste.pas=c:\projeto teste\web service\UWMTeste.pas</Transaction>
     <Transaction>2024/12/11 21:51:09.712,C:\Projeto Teste\Web Service Teste\UWMTeste.dfm=c:\projeto teste\web service\UWMTeste.dfm</Transaction>
     <Transaction>2024/12/11 21:51:33.421,C:\Projeto Teste\Web Service Teste\UWMTesteImpl.pas=C:\Projeto Teste\Web Service\UWMTesteImpl.pas</Transaction>
     <Transaction>2024/12/11 21:51:44.254,C:\Projeto Teste\Web Service Teste\UWMTesteIntf.pas=c:\projeto teste\web service\UWMTesteIntf.pas</Transaction>
+    <Transaction>2024/12/11 23:33:54.540,C:\Projeto Teste\Global\UMensagens.pas=</Transaction>
+    <Transaction>2024/12/11 23:34:16.242,=C:\Projeto Teste\Global\UMensagens.pas</Transaction>
   </Transactions>  <ProjectSortOrder AutoSort="0" SortType="0">
-    <File Path="C:\Projeto Teste"/>
-    <File Path="..\Global"/>
-    <File Path="..\Global\UMensagens.pas"/>
     <File Path="UDMTeste.pas"/>
     <File Path="UDMTeste.dfm"/>
     <File Path="UWS.pas"/>
@@ -54,5 +53,8 @@
     <File Path="UWMTeste.dfm"/>
     <File Path="UWMTesteImpl.pas"/>
     <File Path="UWMTesteIntf.pas"/>
+    <File Path="C:\Projeto Teste"/>
+    <File Path="..\Global"/>
+    <File Path="..\Global\UMensagens.pas"/>
   </ProjectSortOrder>
 </BorlandProject>
