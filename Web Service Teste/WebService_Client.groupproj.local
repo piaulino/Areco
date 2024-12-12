@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/12/11 11:32:44.000.819,C:\Projeto Teste\Web Service\WebService_Client.groupproj=C:\Users\piaul\OneDrive\Documentos\Embarcadero\Studio\Projects\ProjectGroup1.groupproj</Transaction>
+    <Transaction>2024/12/11 21:49:27.046,C:\Projeto Teste\Web Service Teste\WebService_Client.groupproj=C:\Projeto Teste\Web Service\WebService_Client.groupproj</Transaction>
+  </Transactions>
+	<Default.Personality>
+		<Projects ActiveProject="C:\Projeto Teste\Web Service Teste\Testa Web Service\Cliente_Teste.dproj"/>
+	</Default.Personality>
+</BorlandProject>

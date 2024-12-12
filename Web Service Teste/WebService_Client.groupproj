@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{D901350A-B13A-4B65-9FD8-DEC3F24632D0}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="WebServiceTeste.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Testa Web Service\Cliente_Teste.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="WebServiceTeste">
+        <MSBuild Projects="WebServiceTeste.dproj"/>
+    </Target>
+    <Target Name="WebServiceTeste:Clean">
+        <MSBuild Projects="WebServiceTeste.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="WebServiceTeste:Make">
+        <MSBuild Projects="WebServiceTeste.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Cliente_Teste">
+        <MSBuild Projects="Testa Web Service\Cliente_Teste.dproj"/>
+    </Target>
+    <Target Name="Cliente_Teste:Clean">
+        <MSBuild Projects="Testa Web Service\Cliente_Teste.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Cliente_Teste:Make">
+        <MSBuild Projects="Testa Web Service\Cliente_Teste.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="WebServiceTeste;Cliente_Teste"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="WebServiceTeste:Clean;Cliente_Teste:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="WebServiceTeste:Make;Cliente_Teste:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>
