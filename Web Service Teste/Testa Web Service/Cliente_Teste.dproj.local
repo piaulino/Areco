@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/10/14 20:07:02.000.772,=C:\Users\piaul\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/08/15 16:35:36.000.819,=C:\Users\piaul\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/10/07 11:52:36.000.134,=C:\Users\piaul\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/10/08 10:23:37.000.922,=C:\Users\piaul\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/11/01 15:19:30.000.974,=C:\Users\piaul\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/12/10 11:56:06.000.746,=C:\Users\piaul\OneDrive\Documentos\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2024/12/10 11:58:22.000.128,=C:\Users\piaul\OneDrive\Documentos\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2024/12/10 12:00:21.000.026,=C:\Users\piaul\OneDrive\Documentos\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2024/12/10 12:00:21.000.210,=C:\Users\piaul\OneDrive\Documentos\Embarcadero\Studio\Projects\ServerConst1.pas</Transaction>
+    <Transaction>2024/12/11 12:04:52.000.644,=C:\Users\piaul\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/12/11 12:05:34.000.552,C:\Users\piaul\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas=C:\Projeto Teste\Client\UPrincipal.pas</Transaction>
+    <Transaction>2024/12/11 12:05:34.000.552,C:\Users\piaul\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.dfm=C:\Projeto Teste\Client\UPrincipal.dfm</Transaction>
+    <Transaction>2024/12/11 12:05:48.000.558,C:\Users\piaul\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Projeto Teste\Client\Cliente_Teste.dproj</Transaction>
+    <Transaction>2024/12/11 12:09:53.000.161,=C:\Projeto Teste\Client\IWMTeste1.pas</Transaction>
+    <Transaction>2024/12/11 12:11:43.000.168,C:\Projeto Teste\Client\IWMTeste1.pas=C:\Projeto Teste\Client\IWMTeste.pas</Transaction>
+    <Transaction>2024/12/11 12:19:22.000.335,=C:\Projeto Teste\Client\IWMTeste1.pas</Transaction>
+    <Transaction>2024/12/11 12:19:54.000.781,C:\Projeto Teste\Client\IWMTeste.pas=C:\Projeto Teste\Client\IWMTeste1.pas</Transaction>
+    <Transaction>2024/12/11 12:20:11.000.663,C:\Projeto Teste\Client\IWMTeste1.pas=C:\Projeto Teste\Client\IWMTeste.pas</Transaction>
+    <Transaction>2024/12/11 12:20:43.000.728,C:\Projeto Teste\Client\IWSTeste.pas=C:\Projeto Teste\Client\IWMTeste1.pas</Transaction>
+    <Transaction>2024/12/11 12:28:59.000.188,C:\Projeto Teste\Client\UWMTesteIntf.pas=C:\Projeto Teste\Client\IWSTeste.pas</Transaction>
+    <Transaction>2024/12/11 12:30:13.000.048,C:\Projeto Teste\Client\dproj\Cliente_Teste.dproj=C:\Projeto Teste\Client\Cliente_Teste.dproj</Transaction>
+    <Transaction>2024/12/11 12:32:33.000.027,C:\Projeto Teste\Client\dproj\Cliente_Teste2.dproj=C:\Projeto Teste\Client\dproj\Cliente_Teste.dproj</Transaction>
+    <Transaction>2024/12/11 12:36:36.000.922,C:\Projeto Teste\Client\dproj\Cliente_Teste3.dproj=C:\Projeto Teste\Client\dproj\Cliente_Teste2.dproj</Transaction>
+    <Transaction>2024/12/11 13:10:23.000.363,=C:\Projeto Teste\Client\dproj\Unit1.pas</Transaction>
+    <Transaction>2024/12/11 13:11:01.000.572,C:\Projeto Teste\Client\dproj\Unit1.dfm=C:\Projeto Teste\Web Service\UDMTeste.dfm</Transaction>
+    <Transaction>2024/12/11 13:11:01.000.572,C:\Projeto Teste\Client\dproj\Unit1.pas=C:\Projeto Teste\Web Service\UDMTeste.pas</Transaction>
+    <Transaction>2024/12/11 13:28:11.000.362,C:\Projeto Teste\Web Service\UDMTeste.pas=</Transaction>
+    <Transaction>2024/12/11 14:39:35.000.495,=C:\Projeto Teste\Client\dproj\Unit1.pas</Transaction>
+    <Transaction>2024/12/11 15:19:29.000.059,C:\Projeto Teste\Client\dproj\Cliente_Teste3.dproj=C:\Projeto Teste\Client\dproj\Cliente_Teste.dproj</Transaction>
+    <Transaction>2024/12/11 15:26:38.000.649,C:\Projeto Teste\Client\dproj\Cliente_Teste.dproj=C:\Projeto Teste\Client\dproj\Cliente_Teste2.dproj</Transaction>
+    <Transaction>2024/12/11 15:45:09.000.538,=C:\Projeto Teste\Client\dproj\IWMTeste1.pas</Transaction>
+    <Transaction>2024/12/11 15:51:05.525,=C:\Projeto Teste\Client\dproj\IWMTeste1.pas</Transaction>
+    <Transaction>2024/12/11 15:58:11.232,C:\Projeto Teste\Client\UWMTesteIntfCli.pas=C:\Projeto Teste\Client\UWMTesteIntf.pas</Transaction>
+    <Transaction>2024/12/11 16:01:12.826,C:\Projeto Teste\Client\UWMTesteIntfCli.pas=</Transaction>
+    <Transaction>2024/12/11 16:01:29.609,=C:\Projeto Teste\Client\dproj\IWMTeste1.pas</Transaction>
+    <Transaction>2024/12/11 16:02:34.400,C:\Projeto Teste\Client\IWMTeste.pas=C:\Projeto Teste\Client\dproj\IWMTeste1.pas</Transaction>
+    <Transaction>2024/12/11 16:03:27.680,C:\Projeto Teste\Client\IWSTeste.pas=C:\Projeto Teste\Client\IWMTeste.pas</Transaction>
+    <Transaction>2024/12/11 21:27:30.612,=C:\Projeto Teste\Client\dproj\Unit1.pas</Transaction>
+    <Transaction>2024/12/11 21:28:10.877,C:\Projeto Teste\Global\UMensagens.pas=C:\Projeto Teste\Client\dproj\Unit1.pas</Transaction>
+    <Transaction>2024/12/11 21:52:40.010,C:\Projeto Teste\Web Service Teste\Testa Web Service\Cliente_Teste.dproj=C:\Projeto Teste\Client\dproj\Cliente_Teste2.dproj</Transaction>
+    <Transaction>2024/12/11 21:52:55.105,C:\Projeto Teste\Web Service Teste\Testa Web Service\IWSTeste.pas=C:\Projeto Teste\Client\IWSTeste.pas</Transaction>
+    <Transaction>2024/12/11 21:53:42.573,C:\Projeto Teste\Web Service Teste\Testa Web Service\UPrincipal.dfm=C:\Projeto Teste\Client\UPrincipal.dfm</Transaction>
+    <Transaction>2024/12/11 21:53:42.573,C:\Projeto Teste\Web Service Teste\Testa Web Service\UPrincipal.pas=C:\Projeto Teste\Client\UPrincipal.pas</Transaction>
+  </Transactions>
+</BorlandProject>
